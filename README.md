@@ -73,7 +73,7 @@ git clone https://github.com/Smikkel997/BTD6ReplayRecorder.git
 cd BTD6ReplayRecorder
 
 # Build Release binary
-dotnet build games/btd6/mods/BTD6ReplayRecorder/BTD6ReplayRecorder.csproj -c Release
+dotnet build BTD6ReplayRecorder.csproj -c Release
 ```
 
 ---
